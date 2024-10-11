@@ -1,0 +1,14 @@
+C:\BloodBanken\obj\Debug\net7.0\BloodBanken.GeneratedMSBuildEditorConfig.editorconfig
+C:\BloodBanken\obj\Debug\net7.0\BloodBanken.AssemblyInfoInputs.cache
+C:\BloodBanken\obj\Debug\net7.0\BloodBanken.AssemblyInfo.cs
+C:\BloodBanken\obj\Debug\net7.0\BloodBanken.csproj.CoreCompileInputs.cache
+C:\BloodBanken\bin\Debug\net7.0\BloodBanken.exe
+C:\BloodBanken\bin\Debug\net7.0\BloodBanken.deps.json
+C:\BloodBanken\bin\Debug\net7.0\BloodBanken.runtimeconfig.json
+C:\BloodBanken\bin\Debug\net7.0\BloodBanken.dll
+C:\BloodBanken\bin\Debug\net7.0\BloodBanken.pdb
+C:\BloodBanken\obj\Debug\net7.0\BloodBanken.dll
+C:\BloodBanken\obj\Debug\net7.0\refint\BloodBanken.dll
+C:\BloodBanken\obj\Debug\net7.0\BloodBanken.pdb
+C:\BloodBanken\obj\Debug\net7.0\BloodBanken.genruntimeconfig.cache
+C:\BloodBanken\obj\Debug\net7.0\ref\BloodBanken.dll

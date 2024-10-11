@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Manrope", sans-serif;
+}
+
+body{
+    min-height: 100vh;
+    background: url('/images/scottweb.jpg'), no-repeat; /* Ange korrekt sökväg */
+    background-size: cover; /* Gör så att bilden täcker hela bakgrunden */
+    background-position: center;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.3rem 10%;
+    background: rgba(0, 0, 0, .5);
+    backdrop-filter: blur(50px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo{
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.navbar a {
+    font-size: 1.15rem;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 1.5rem;
+
+}
+
+.headline {
+    margin-top: 250px; /* Adjust this value as needed to move the headline down */
+    text-align: center;
+    color: #a49e9ed1;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+
