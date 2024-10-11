@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 
+
+:root{
+    --color-gray-100: #F3F6FF;
+}
+
+
+
 *{
     margin: 0;
     padding: 0;
@@ -47,15 +54,32 @@ body{
 .headline {
     margin-top: 250px; /* Adjust this value as needed to move the headline down */
     text-align: center;
-    color: #a49e9ed1;
+    color: #7a7676d1;
 }
 
 h1 {
     font-size: 3rem;
+    padding-bottom: 1rem;
 }
 
 p{
     font-size: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.btn{
+    padding: 9px 18px;
+    font-size: 1rem;
+    border-radius: .3em;
+    border: 1px solid #D4D7E5;
+    font-weight: 400;
+    background-color:#E2E5F1;
+    margin-right: 15px; 
+    
+}
+
+.btn:hover{
+    background-color: #B4B7C9;
 }
 
 
