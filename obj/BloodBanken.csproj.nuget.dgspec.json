@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BlodBank\\BloodBanken.csproj": {}
+    "C:\\Bloodbank\\BloodBanken.csproj": {}
   },
   "projects": {
-    "C:\\BlodBank\\BloodBanken.csproj": {
+    "C:\\Bloodbank\\BloodBanken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BlodBank\\BloodBanken.csproj",
+        "projectUniqueName": "C:\\Bloodbank\\BloodBanken.csproj",
         "projectName": "BloodBanken",
-        "projectPath": "C:\\BlodBank\\BloodBanken.csproj",
+        "projectPath": "C:\\Bloodbank\\BloodBanken.csproj",
         "packagesPath": "C:\\Users\\meega\\.nuget\\packages\\",
-        "outputPath": "C:\\BlodBank\\obj\\",
+        "outputPath": "C:\\Bloodbank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\meega\\AppData\\Roaming\\NuGet\\NuGet.Config"
